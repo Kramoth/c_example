@@ -13,6 +13,7 @@ hello
 assign_var
 const_example
 scanf_example
+calculus
 # Fichiers de dépendance
 *.d
 *.dep
