@@ -24,6 +24,7 @@ while_example
 do_while_example
 for_example
 function_hello
+RsToEur
 # Fichiers de dépendance
 *.d
 *.dep
