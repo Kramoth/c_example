@@ -15,6 +15,7 @@ const_example
 scanf_example
 calculus
 shortcut
+if_example
 # Fichiers de dépendance
 *.d
 *.dep
