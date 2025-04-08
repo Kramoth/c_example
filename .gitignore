@@ -14,6 +14,7 @@ assign_var
 const_example
 scanf_example
 calculus
+shortcut
 # Fichiers de dépendance
 *.d
 *.dep
