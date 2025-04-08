@@ -12,6 +12,7 @@
 hello
 assign_var
 const_example
+scanf_example
 # Fichiers de dépendance
 *.d
 *.dep
