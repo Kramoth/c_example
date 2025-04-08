@@ -17,6 +17,8 @@ calculus
 shortcut
 if_example
 if_example_simple
+if_else_example
+if_elseif_else_example
 # Fichiers de dépendance
 *.d
 *.dep
