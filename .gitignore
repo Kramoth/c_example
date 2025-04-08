@@ -1,0 +1,48 @@
+# Fichiers objets
+*.o
+*.obj
+
+# Fichiers d'exécution avec extensions
+*.exe
+*.out
+*.app
+*.elf
+
+# Exécutables générés manuellement (ajoute ici ceux que tu compiles)
+hello
+assign_var
+const_example
+# Fichiers de dépendance
+*.d
+*.dep
+
+# Fichiers générés par le débogueur
+*.gch
+*.pch
+
+# Dossiers de build
+/build/
+/bin/
+/debug/
+/release/
+
+# Archives et bibliothèques
+*.a
+*.so
+*.dll
+*.lib
+
+# Fichiers temporaires et de sauvegarde
+*.swp
+*.swo
+*.bak
+*~
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers d’IDE
+.vscode/
+.idea/
+cmake-build-*/
