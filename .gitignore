@@ -25,6 +25,10 @@ do_while_example
 for_example
 function_hello
 RsToEur
+addTwoInt
+FtoC
+moyenne
+puissance
 # Fichiers de dépendance
 *.d
 *.dep
