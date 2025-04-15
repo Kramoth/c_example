@@ -29,6 +29,15 @@ addTwoInt
 FtoC
 moyenne
 puissance
+pointeur_test
+toto
+cartToPol
+pointeur_test2
+tab_declaration
+tab_element_affect
+tab_init_decl
+tab_init_for
+tab_pointeur
 # Fichiers de dépendance
 *.d
 *.dep
